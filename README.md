@@ -5,3 +5,6 @@ Feel free to go through them and use for your learning purpose, they are great f
 All the code run on the terminal, so you don't have to worry about any GUI😊.
 
 If you figure out any cool feature you'd like to share, feel free to create a pull request on this one, would really appreciate😉.
+
+-----------------------------------------------------------------------------------------------------
+I'll try as much as possible to keep modifing all my beginner projects and sharing them here.

@@ -19,7 +19,5 @@ while True:
     time.sleep(0.1)
     print("Sending Data... ")
 
-done = range(0, 8)
-time.sleep(3)
 
 # You can reduce the time to something like "0.05" to make it even faster ;)

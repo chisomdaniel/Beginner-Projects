@@ -4,6 +4,7 @@
 # Every inputed file must have the .csv format
 # Feel free to make your own clone of this project and add any cool update of feature you like ;), and also make a request for it to be added to the main
 # Feel free to follow me on github if you find this script usefull :)
+# The "email2.csv" and "email.csv" files are just example email list that you can use to test this code. note that all emails where gotten from free emails available online.
 
 import csv
 
